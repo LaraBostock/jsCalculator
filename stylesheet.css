@@ -1,0 +1,23 @@
+#calculator {
+  width: 250px;
+  margin: 0;
+}
+
+span {
+  border: 1px solid;
+  width: 50px;
+  line-height: 50px;
+  padding: 2px;
+  margin: 5px;
+  display: inline-block;
+  text-align: center;
+}
+
+#operators {
+  float: right;
+  width: 20px;
+}
+
+#screen {
+  border: 1px solid;
+}
